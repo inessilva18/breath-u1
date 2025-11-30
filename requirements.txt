@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+sqlite3
+O365>=3.0.0
+transformers>=4.30.0
+torch>=2.0.0
+speechrecognition>=3.10.0
+httpx>=0.24.0
+python-dotenv>=1.0.0
